@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.flex {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+.action-button {
+  flex-direction: column;
+}
